@@ -1,0 +1,7 @@
+LIBRARY STLPreview
+EXPORTS
+    DllGetClassObject          PRIVATE
+    DllCanUnloadNow            PRIVATE
+    DllRegisterServer          PRIVATE
+    DllUnregisterServer        PRIVATE
+    STLPreview_LiveWindowCount PRIVATE

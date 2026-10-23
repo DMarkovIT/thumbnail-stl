@@ -1,0 +1,8 @@
+build/
+dist/
+testdata/
+*.bmp
+*.user
+.vs/
+__pycache__/
+*.log
